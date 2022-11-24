@@ -1,0 +1,5 @@
+primeiro projeto basico do curso inicial de fundamentos do git e github
+
+git é uma ferramente de versionamento de códigos imrescindivel para quem trabalha na area de desenvolvimento de projetos e programas
+github é a plataforma onde o desenvolvedor pode extrair o maximo possivel da[os beneficios do git ao trabalhar o versionamento de códigos,
+principalmente durante necessidade de projetos em equipe.
